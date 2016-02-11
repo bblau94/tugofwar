@@ -36,7 +36,7 @@ public class ScoreBoard {
 
 	public ScoreBoard(Set<Player> scoreBoard) {
 		this.scoreBoard = scoreBoard;
-	}	
+	}
 	
 	/**
 	 * Comparator info:

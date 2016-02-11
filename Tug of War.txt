@@ -35,7 +35,7 @@ Features:
 	- Elevation gain / loss accounted for
 		- needs to balanced with flat and downhill modifiers
 	- Profiles with social network tie ins such as Facebook/Google
-	- Challenege a friend
+	- Challenge a friend
 	- AI?
 	- Group races?
 	- Possibly biking etc in future?
