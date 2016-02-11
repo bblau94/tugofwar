@@ -1,0 +1,47 @@
+Tug of War Android Application
+
+Purpose:
+	- Allow people to connect and compete using location services (such as google maps). Put a fun spin on exercise with some friendly competition.
+
+Features:
+	- Matchmaking
+		- Ranking / Scoring to match with similar users
+			- May or may not be dependent on game modes
+		- Selected modes, could taken into account location / elevation otherwise algorithm
+		- Puts you in a lobby where you have to hit ready
+			- possible chat room aspect in lobby
+			- all users have to hit ready and match will begin (toggle ability)
+			- report other users
+		- Users are penalized for leaving a match early (such as mid match)
+		- Weather...
+	- Friends list
+		- could tie into Social media
+		- Favorite challengers
+	- Game modes
+		- Sprints
+			- Pre set configurations
+		- Distance
+			- Pre set configurations
+		- Free mode
+			- Choose distances etc
+		- Power up modes
+			- something like every mile you get a powerup (mario kart style) and can activate if pace is increased by x% over x time or something along those lines
+	- Score board
+		- Global / Friends / Location based etc etc
+		- Mode dependent / Overall
+		- Smart board allow for scoring to be filtered upon
+	- Messaging interface
+	- "cheat detection" 
+	- Elevation gain / loss accounted for
+		- needs to balanced with flat and downhill modifiers
+	- Profiles with social network tie ins such as Facebook/Google
+	- Challenege a friend
+	- AI?
+	- Group races?
+	- Possibly biking etc in future?
+		- or different apps for each maybe
+	- Sponsored Events
+		- Marathons (city)
+		- Less of a tug of war more statistical tracking of the event
+	- Betting?
+	
